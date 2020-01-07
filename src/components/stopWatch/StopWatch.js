@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import './StopWatch.scss';
 
 const StopWatch = props => {
@@ -44,9 +43,9 @@ const StopWatch = props => {
 	return (
 		<div className="stopWatchWrapper">
 			<div className="github">
-				<Link to="https://github.com/arturmaiz/StopWatch">
+				<a href="https://github.com/arturmaiz/StopWatch">
 					<i class="fab fa-github"></i> github
-				</Link>
+				</a>
 			</div>
 			<div id="stopWatch">
 				{hours < 10 ? '0' + hours.toString() : hours}:{minutes < 10 ? '0' + minutes.toString() : minutes}:
