@@ -44,7 +44,7 @@ const StopWatch = props => {
 	return (
 		<div className="stopWatchWrapper">
 			<div className="github">
-				<Link>
+				<Link to="https://github.com/arturmaiz/StopWatch">
 					<i class="fab fa-github"></i> github
 				</Link>
 			</div>
