@@ -2,7 +2,7 @@
 
 # 👉🏽 [Demo](https://stopwatch08.netlify.com/)
 
-Stop Watch is a little app that helps measure time, Build with React. Developed with ❤️ by [Artur Maizelev](https://www.arturmaiz.com/).
+Stop Watch is a little app that helps measure time, Build with React. Developed with ❤️ by Artur Maizelev.
 If you love my project please star ⭐️ my repo!
 
 ## How can I support developers?
