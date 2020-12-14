@@ -17,6 +17,8 @@ const Landing = () => {
         rerum ipsum. Veritatis maxime magnam dolor vel iure quis aliquam alias
         qui.
       </p>
+
+      <a href="#">link</a>
     </div>
   );
 };
