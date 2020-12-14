@@ -10,15 +10,6 @@ const Landing = () => {
       <Link className="exercise-btn" to="/start">
         start
       </Link>
-
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum
-        quod quaerat temporibus animi voluptates assumenda vitae dolores iure
-        rerum ipsum. Veritatis maxime magnam dolor vel iure quis aliquam alias
-        qui.
-      </p>
-
-      <a href="#">link</a>
     </div>
   );
 };
